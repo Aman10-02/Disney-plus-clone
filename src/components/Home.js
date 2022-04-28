@@ -29,12 +29,6 @@ function Home() {
         <Viewers />
         <Movies />
         <Movies />
-        <Movies />
-        <Movies />
-        <Movies />
-        <Movies />
-        <Movies />
-        <Movies />
     </Container>
   )
 }

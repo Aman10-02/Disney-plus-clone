@@ -19,31 +19,33 @@ function Movies() {
             </Wrap>
           ))
         }
-          <Wrap>
-            <img src="https://tse4.mm.bing.net/th?id=OIP.rRjxva43wVSJv2GZLkvqagHaE8&pid=Api&P=0&w=273&h=182" alt="" />
-          </Wrap>
-          <Wrap>
-            <img src="https://tse4.mm.bing.net/th?id=OIP.rRjxva43wVSJv2GZLkvqagHaE8&pid=Api&P=0&w=273&h=182" alt="" />
-          </Wrap>
-          <Wrap>
-            <img src="https://tse4.mm.bing.net/th?id=OIP.rRjxva43wVSJv2GZLkvqagHaE8&pid=Api&P=0&w=273&h=182" alt="" />
-          </Wrap>
-          <Wrap>
-            <img src="https://tse4.mm.bing.net/th?id=OIP.rRjxva43wVSJv2GZLkvqagHaE8&pid=Api&P=0&w=273&h=182" alt="" />
-          </Wrap>
-          <Wrap>
-            <img src="https://tse4.mm.bing.net/th?id=OIP.rRjxva43wVSJv2GZLkvqagHaE8&pid=Api&P=0&w=273&h=182" alt="" />
-          </Wrap>
-          <Wrap>
-            <img src="https://tse4.mm.bing.net/th?id=OIP.rRjxva43wVSJv2GZLkvqagHaE8&pid=Api&P=0&w=273&h=182" alt="" />
-          </Wrap>
-          <Wrap>
-            <img src="https://tse4.mm.bing.net/th?id=OIP.rRjxva43wVSJv2GZLkvqagHaE8&pid=Api&P=0&w=273&h=182" alt="" />
-          </Wrap>
       </Content>
     </Container>
   )
 }
+
+
+// <Wrap>
+// <img src="https://tse4.mm.bing.net/th?id=OIP.rRjxva43wVSJv2GZLkvqagHaE8&pid=Api&P=0&w=273&h=182" alt="" />
+// </Wrap>
+// <Wrap>
+// <img src="https://tse4.mm.bing.net/th?id=OIP.rRjxva43wVSJv2GZLkvqagHaE8&pid=Api&P=0&w=273&h=182" alt="" />
+// </Wrap>
+// <Wrap>
+// <img src="https://tse4.mm.bing.net/th?id=OIP.rRjxva43wVSJv2GZLkvqagHaE8&pid=Api&P=0&w=273&h=182" alt="" />
+// </Wrap>
+// <Wrap>
+// <img src="https://tse4.mm.bing.net/th?id=OIP.rRjxva43wVSJv2GZLkvqagHaE8&pid=Api&P=0&w=273&h=182" alt="" />
+// </Wrap>
+// <Wrap>
+// <img src="https://tse4.mm.bing.net/th?id=OIP.rRjxva43wVSJv2GZLkvqagHaE8&pid=Api&P=0&w=273&h=182" alt="" />
+// </Wrap>
+// <Wrap>
+// <img src="https://tse4.mm.bing.net/th?id=OIP.rRjxva43wVSJv2GZLkvqagHaE8&pid=Api&P=0&w=273&h=182" alt="" />
+// </Wrap>
+// <Wrap>
+// <img src="https://tse4.mm.bing.net/th?id=OIP.rRjxva43wVSJv2GZLkvqagHaE8&pid=Api&P=0&w=273&h=182" alt="" />
+// </Wrap>
 
 export default Movies
 
